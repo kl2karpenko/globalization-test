@@ -14,7 +14,7 @@ Create a simple web application for managing tasks that allows users to create, 
    - Implement accessibility: keyboard navigation, ARIA roles, and labels.
 
 2. **Backend:**
-   - Create a simple REST API with Node.js and Express to handle requests for creating, retrieving, updating, and deleting tasks.
+   - Create a simple REST API with Node.js and Express (or C#) to handle requests for creating, retrieving, updating, and deleting tasks.
    - Store task data in the server memory (database usage is not required).
 
 3. **Additional Tasks:**
